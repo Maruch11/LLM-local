@@ -1,5 +1,7 @@
 # Roadmap técnico para implementación de LLM interno
 
+MODIFICADO
+
 ## Validación técnica
 
 El roadmap cubre los siguientes dominios técnicos.
