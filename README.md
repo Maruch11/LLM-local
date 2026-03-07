@@ -35,11 +35,12 @@ Diseño de arquitectura y definición de roadmap
 # Estructura del repositorio
 
 ```
-docs/
-│
-├── roadmap_infra_llm.md
-│
-└── roadmap_dev_integracion_llm.md
+LLM-local/
+├── README.md
+└── docs/
+    ├── roadmap_infra_llm.md
+    └── roadmap_dev_integracion_llm.md
+    
 ```
 
 ---
