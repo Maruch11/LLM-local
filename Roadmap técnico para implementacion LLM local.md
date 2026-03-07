@@ -1,6 +1,18 @@
-# Roadmap técnico para implementación de LLM interno
+# Roadmap técnico para implementación
 
-MODIFICADO
+Este documento define el **roadmap técnico para la implementación de una infraestructura interna de LLM**. Describe una arquitectura modular que permite implementar múltiples casos de uso sobre una misma infraestructura de LLM interno.
+
+## Alcance
+
+El foco principal del documento está en los **aspectos de infraestructura y operación**, aunque incluye una visión general de las etapas **previas (definición y arquitectura)** y **posteriores (evaluación, operación y escalado)** necesarias para llevar el sistema a producción.
+
+El alcance técnico principal para el equipo de Infraestructura incluye:
+
+- despliegue del modelo (model deployment)
+- provisión y gestión de GPU
+- configuración del runtime de inferencia
+
+---
 
 ## Validación técnica
 
