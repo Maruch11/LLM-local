@@ -152,7 +152,7 @@ Accuracy respuestas | >70% |
 Latencia respuesta | <5 segundos |
 Adopción del equipo | uso activo |
 Tiempo diagnóstico | reducción medible |
-
+```
 ---
 
 # 3. Flujo de consulta
